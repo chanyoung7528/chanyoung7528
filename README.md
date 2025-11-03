@@ -1,6 +1,6 @@
 # 안녕하세요,
 
-5년차 프론트엔드 개발자로, **React / Next.js / Vue3 / Nuxt / TypeScript** 중심의  
+4년차 프론트엔드 개발자로, **React / Next.js / Vue3 / Nuxt / TypeScript** 중심의  
 웹 서비스와 어드민 시스템을 개발하고 있습니다.  
 **사용자의 행동과 맥락을 고려한 인터랙션과 경험 설계**를 중요하게 생각하며,  
 깔끔한 코드와 구조적인 UI를 통해 더 나은 사용성을 만드는 것을 목표로 합니다.  
@@ -50,7 +50,7 @@
 ### 📫 Contact
 
 - ✉️ Email: **chanyoung7528@gmail.com**  
-- 💼 Blog: [https://www.chans.dev/](https://www.chans.dev/)
+
 
 ---
 
