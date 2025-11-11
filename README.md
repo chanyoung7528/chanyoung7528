@@ -50,7 +50,7 @@
 ### 📫 Contact
 
 - ✉️ Email: **chanyoung7528@gmail.com**  
-
+- 💼 Blog: [https://www.chans.dev/](https://www.chans.dev/)
 
 ---
 
